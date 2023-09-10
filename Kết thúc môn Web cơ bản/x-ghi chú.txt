@@ -1,0 +1,13 @@
+* đặt tên class: trang-thành phần to-thành phần nhỏ;
+* chiều rộng của các khung nội dung(container) là 1170px;
+* có 7 trang gồm -trang chủ (index)
+		 -giới thiệu (introduce)
+		 -nước hoa (perfume)
+		 -thông tin (information)
+		 -đăng nhập (login
+		 -liên hệ (contact)
+		 -giỏ hàng (cart)
+*web tham khảo: https://parfumerie.vn
+*thước đo: https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal
+* 	-Đức: nước hoa, thông tin, đăng nhập, giới thiệu
+	-Long Phát: Trang chủ, giỏ hàng, liên hệ
